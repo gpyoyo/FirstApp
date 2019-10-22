@@ -27,7 +27,7 @@ public class UserAdapter extends ArrayAdapter<User> {
 
 
 
-    123
+    12
 
     @Nullable
     @Override
